@@ -7,7 +7,9 @@
 
 <div align=center><h1>🌱 GitHub stats</h1></div>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumin4101@naver.com)](https://solved.ac/sumin4101@naver.com/)
-
+![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/rlatngus1691/)
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 

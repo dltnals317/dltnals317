@@ -10,7 +10,7 @@
 <p> 🏫 인하대학교 정보통신공학과<p>
 <p>🐤 프론트엔드 개발</p>
 <div>
-[![Velog Badge](https://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&link=https://breath-in317.tistory.com/)](https://breath-in317.tistory.com)
+[![Velog Badge](https://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&link=https://breath-in317.tistory.com/)](https://breath-in317.tistory.com)]
 </div>
 </div>
 

@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/dev.sum_int/">
     <img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  <a href="https://blog.naver.com/chajuhui123">
+  <a href="https://breath-in317.tistory.com/">
     <img src="https://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=000000" alt="Blog Badge">
   </a>
 </div>

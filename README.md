@@ -9,8 +9,8 @@
 </div>
 [![Velog Badge](http://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&link=https://velog.io/@thundevistan/)](https://velog.io/@thundevistan)
 <div align=center><h1>🌱 GitHub stats</h1></div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yism317&layout=compact&theme=tokyonight"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=yism317&show_icons=true&theme=tokyonight">
 
 
 <div align=center>

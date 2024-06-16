@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&height=200&text=Lee%20Sumin&fontColor=d5e6f5&color=timeGradient&animation=fadeIn" alt="header">
 </div>
 
-<p align="center"> 🏫 인하대학교 정보통신공학과</p>
-<p align="center">🐤 프론트엔드 개발</p>
+<p align> 🏫 인하대학교 정보통신공학과</p>
+<p align>🐤 프론트엔드 개발</p>
 
-<div align="center">
+<div align>
   <br>
   <h2>📡 SNS & Portfolio 📡</h2>
   <a href="https://www.instagram.com/dev.sum_int/">
@@ -18,7 +18,7 @@
 
 <br>
 
-<div align="center">
+<div >
   <h2>🏆 Baekjoon solved Rank 🏆</h2>
   <a href="https://solved.ac/yism317/">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yism317" alt="Solved.ac Profile">
@@ -27,7 +27,7 @@
 
 <br>
 
-<div align="center">
+<div>
   <h2>🌱 GitHub stats</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yism317&layout=compact&theme=tokyonight" alt="Top Languages">
   <br><br>
@@ -36,7 +36,7 @@
 
 <br>
 
-<div align="center">
+<div >
   <h2>📚 Tech Stack 📚</h2>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">

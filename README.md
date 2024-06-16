@@ -2,7 +2,7 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Lee Sumin&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 </div>
 
-<div align=center><h1>😄 Lee Sumin</h1></div>
+<div align=center><h2>😄 Lee Sumin</h2></div>
 <p> 🏫 인하대학교 정보통신공학과<p>
 <p>🐤 프론트엔드 개발</p>
 
@@ -14,8 +14,7 @@
 
 
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<h2>📚 Tech Stack 📚</h2>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -61,8 +60,8 @@
 <div align=center>
 	<br>
 	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yism317&layout=compact&theme=tokyonight"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=yism317&show_icons=true&theme=tokyonight">
 
 <br>
 <p>🏆 Baekjoon solved Rank 🏆</p>

@@ -9,9 +9,9 @@
 <div align=center><h1>😄 Lee Sumin</h1></div>
 <p> 🏫 인하대학교 정보통신공학과<p>
 <p>🐤 프론트엔드 개발</p>
-[![Velog Badge](http://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&link=https://velog.io/@thundevistan/)](https://velog.io/@thundevistan)
-</div>
 
+</div>
+[![Velog Badge](http://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&link=https://velog.io/@thundevistan/)](https://velog.io/@thundevistan)
 <div align=center><h1>🌱 GitHub stats</h1></div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true&theme=tokyonight">

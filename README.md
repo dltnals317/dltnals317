@@ -2,17 +2,17 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Lee Sumin&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 </div>
 
-<div align=center><h2>😄 Lee Sumin</h2></div>
+<div align=center><h2>😄 Lee Sumin</h2>
 <p> 🏫 인하대학교 정보통신공학과<p>
 <p>🐤 프론트엔드 개발</p>
 
 </div>
-[![Velog Badge](http://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&link=https://velog.io/@thundevistan/)](https://velog.io/@thundevistan)
+
 <div align=center><h1>🌱 GitHub stats</h1></div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yism317&layout=compact&theme=tokyonight"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=yism317&show_icons=true&theme=tokyonight">
 
-
+<br>
 <div align=center>
 	<h2>📚 Tech Stack 📚</h2>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 

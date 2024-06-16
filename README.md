@@ -60,15 +60,20 @@
 <br>
 
 <div>
-  <h2>🌱 GitHub stats</h2>
-  <figure class="half">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yism317&layout=compact&theme=tokyonight" alt="Top Languages">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=yism317&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  </figure>
+  <h2 style="text-align: center;">🌱 GitHub stats</h2>
+  <div style="display: flex; justify-content: space-around;">
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yism317&layout=compact&theme=tokyonight" alt="Top Languages">
+      <br><br>
+    </div>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=yism317&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+    </div>
+  </div>
 </div>
 
 <br>
+
 
 
 

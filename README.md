@@ -1,11 +1,15 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=thundevistan&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Lee Sumin&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 </div>
+
 <div align=center>
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthundevistan&count_bg=%2360B221&title_bg=%235A3B3B&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 <div align=center><h1>😄 Lee Sumin</h1></div>
-- 🏫 인하대학교 정보통신공학과
-- 🐤 프론트엔드 개발
-[![Velog Badge](http://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&link=https://velog.io/@thundevistan/)](https://velog.io/@thundevistan)
+<p> 🏫 인하대학교 정보통신공학과<p>
+<p>🐤 프론트엔드 개발</p>
+[![Velog Badge](http://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&link=[https://velog.io/@thundevistan/)](https://breath-in317.tistory.com/)](https://breath-in317.tistory.com/)
 </div>
 
 <div align=center><h1>🌱 GitHub stats</h1></div>

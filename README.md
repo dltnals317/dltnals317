@@ -4,7 +4,7 @@
 
 <div align=center>
 	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthundevistan&count_bg=%2360B221&title_bg=%235A3B3B&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
 <div align=center><h1>😄 Lee Sumin</h1></div>
 <p> 🏫 인하대학교 정보통신공학과<p>
@@ -16,7 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true&theme=tokyonight">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thundevistan)](https://solved.ac/thundevistan/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yism317)](https://solved.ac/yism317/)
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>

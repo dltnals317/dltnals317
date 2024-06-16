@@ -52,21 +52,24 @@
 </div>
 <br>
 <div align="center">
-    <p>📡 SNS & Portfolio 📡</p>
-    [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dev.sum_int/)
-    [![Blog Badge](https://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722)](https://blog.naver.com/chajuhui123)
+   📡 SNS & Portfolio 📡
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dev.sum_int/)
+[![Blog Badge](https://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722)](https://blog.naver.com/chajuhui123)
+
+🏆 Baekjoon solved Rank 🏆
+
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=yism317)](https://solved.ac/yism317/)
+
 </div>
 <br>
 
 
 
-	
 
-</div>
 <div align=center>
 <p>🏆 Baekjoon solved Rank 🏆</p>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yism317)](https://solved.ac/yism317/)
 </div>
 <br>
 
-![](./profile-3d-contrib/profile-green-animate.svg)

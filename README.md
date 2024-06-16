@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
   <a href="https://breath-in317.tistory.com/">
-   <img src="https://img.shields.io/badge/Tistory-000000.svg?&logo=Sass&logoColor=fff"/>
+   <img src="https://img.shields.io/badge/Tistory-000000.svg?&logo=Tistory&logoColor=fff"/>
   </a>
 </div>
 

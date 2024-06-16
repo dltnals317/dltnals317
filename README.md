@@ -62,9 +62,6 @@
 <div style="text-align: center;">
   <h2>🌱 GitHub stats</h2>
   <div style="display: flex; justify-content: space-around;">
-    <figure style="margin-right: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yism317&layout=compact&theme=tokyonight" alt="Top Languages">
-    </figure>
     <figure>
       <img src="https://github-readme-stats.vercel.app/api?username=yism317&show_icons=true&theme=tokyonight" alt="GitHub Stats">
     </figure>

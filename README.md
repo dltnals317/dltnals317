@@ -1,18 +1,21 @@
-
-<div>
+<div align="center">
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=thundevistan&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
+<div align=center>
 <div align=center><h1>😄 Lee Sumin</h1></div>
 - 🏫 인하대학교 정보통신공학과
 - 🐤 프론트엔드 개발
+[![Velog Badge](http://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&link=https://velog.io/@thundevistan/)](https://velog.io/@thundevistan)
 </div>
 
 <div align=center><h1>🌱 GitHub stats</h1></div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumin4101@naver.com)](https://solved.ac/sumin4101@naver.com/)
-![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/rlatngus1691/)
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true&theme=tokyonight">
 
-<div align=center><h1>📚 STACKS</h1></div>
-<div align=center> 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thundevistan)](https://solved.ac/thundevistan/)
+
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Platforms & Languages ✨</p>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -48,4 +51,26 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+<br>
+<div align=center>
+	<p>📡 SNS & Portfolio 📡</p>
+	
+[![Velog Badge](http://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&link=https://velog.io/@thundevistan/)](https://velog.io/@thundevistan)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kotdev99@gmail.com)](mailto:kotdev99@gmail.com)
+[![Notion Badge](http://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&link=https://www.notion.so/c7f0510ec8914f148131407bf14053d1?pvs=4)](https://www.notion.so/c7f0510ec8914f148131407bf14053d1?pvs=4)
+</div>
+<br>
+<div align=center>
+	<br>
+	
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true&theme=tokyonight">
 
+<br>
+<p>🏆 Baekjoon solved Rank 🏆</p>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thundevistan)](https://solved.ac/thundevistan/)
+</div>
+<br>
+
+![](./profile-3d-contrib/profile-green-animate.svg)

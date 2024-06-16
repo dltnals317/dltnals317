@@ -2,10 +2,6 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Lee Sumin&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 </div>
 
-<div align=center>
-	
-
-</div>
 <div align=center><h1>😄 Lee Sumin</h1></div>
 <p> 🏫 인하대학교 정보통신공학과<p>
 <p>🐤 프론트엔드 개발</p>
@@ -16,7 +12,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thundevistan&layout=compact&theme=tokyonight"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=thundevistan&show_icons=true&theme=tokyonight">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yism317)](https://solved.ac/yism317/)
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -74,7 +69,8 @@
 <br>
 <p>🏆 Baekjoon solved Rank 🏆</p>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thundevistan)](https://solved.ac/thundevistan/)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yism317)](https://solved.ac/yism317/)
 </div>
 <br>
 

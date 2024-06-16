@@ -62,11 +62,11 @@
 <div>
   <h2 style="text-align: center;">🌱 GitHub stats</h2>
   <div style="display: flex; justify-content: space-around;">
-    <div>
+    <div style="flex: 1; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yism317&layout=compact&theme=tokyonight" alt="Top Languages">
       <br><br>
     </div>
-    <div>
+    <div style="flex: 1; text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api?username=yism317&show_icons=true&theme=tokyonight" alt="GitHub Stats">
     </div>
   </div>

@@ -3,10 +3,9 @@
 </div>
 
 
-<div align=center><h2>😄 Lee Sumin</h2>
 <p> 🏫 인하대학교 정보통신공학과<p>
 <p>🐤 프론트엔드 개발</p>
-<div align="center">
+<div >
    📡 SNS & Portfolio 📡
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dev.sum_int/)

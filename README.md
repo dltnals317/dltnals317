@@ -6,7 +6,8 @@
 </div>
 
 <div align=center><h1>🌱 GitHub stats</h1></div>
-<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumin4101@naver.com)](https://solved.ac/sumin4101@naver.com/)
+
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 

@@ -12,26 +12,8 @@
     <img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
   <a href="https://blog.naver.com/chajuhui123">
-    <img src="https://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722" alt="Blog Badge">
+    <img src="https://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=000000" alt="Blog Badge">
   </a>
-</div>
-
-<br>
-
-<div >
-  <h2>🏆 Baekjoon solved Rank 🏆</h2>
-  <a href="https://solved.ac/yism317/">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yism317" alt="Solved.ac Profile">
-  </a>
-</div>
-
-<br>
-
-<div>
-  <h2>🌱 GitHub stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yism317&layout=compact&theme=tokyonight" alt="Top Languages">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=yism317&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </div>
 
 <br>
@@ -67,6 +49,27 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
+
+<div >
+  <h2>🏆 Baekjoon solved Rank 🏆</h2>
+  <a href="https://solved.ac/yism317/">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yism317" alt="Solved.ac Profile">
+  </a>
+</div>
+
+<br>
+
+<div>
+  <h2>🌱 GitHub stats</h2>
+  <figure class="half">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yism317&layout=compact&theme=tokyonight" alt="Top Languages">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=yism317&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  </figure>
+</div>
+
+<br>
+
 
 
 

@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&height=200&text=Lee%20Sumin&fontColor=d5e6f5&color=timeGradient&animation=fadeIn" alt="header">
-</div>
-
 <p align> 🏫 인하대학교 정보통신공학과</p>
 
 <div align>

@@ -1,6 +1,5 @@
 
 <div align>
-
   <h2>SNS & Blog</h2>
   <a href="https://www.instagram.com/dev.sum_int/">
     <img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge">

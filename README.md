@@ -1,4 +1,3 @@
-
 <div align>
   <h2>SNS & Blog</h2>
   <a href="https://www.instagram.com/dev.sum_int/">

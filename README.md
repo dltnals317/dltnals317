@@ -9,8 +9,6 @@
 </div>
 
 <br>
-
-
 <div >
   <h2>🏆 Baekjoon solved Rank 🏆</h2>
   <a href="https://solved.ac/yism317/">
